@@ -1,12 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=BEDEAD&height=160&section=header&text=Hi!%20My%20name%20is%20d2n0s4ur&fontSize=30&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
-
+Hi their!👋 My name is **Junho Noh**, and I am studing at **Korea University**
 <br/>
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://d2n0s4ur.github.io/)](https://d2n0s4ur.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njh0625@gmail.com)](mailto:njh0625@gmail.com)
 
 ![42Seoul](https://img.shields.io/badge/42Seoul-jnoh-sucess?style=flat&logo=42)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd2n0s4ur&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br/>
+
+## I am interested at
+* System Hacking
+* Forensic
+* Web Hacking
+* Development
 
 <br/>
 
@@ -21,7 +25,7 @@
 <br/>
 
 ## 🏫 SCHOOL 🏫
-* [2021 ~ ] Korea Univ. Dept of CYDF 10th
+* [2021 ~ ] Korea University Department of CyberDefence
 * [2018 ~ 2020] Jeonnam Science High School 27th
 * [2015 ~ 2017] Mokpo Chungo middle school
 * [2009 ~ 2014] Mokpo Seoheo elementry school
@@ -30,10 +34,8 @@
 
 ## 📖 LEARNING 📖
 * [2022.01] 42Seoul La'Piscine 6기 1차 교육생
-<br/>
 
 [![jnoh's 42 stats](https://badge42.herokuapp.com/api/stats/jnoh?privacyName=true)](https://github.com/JaeSeoKim/badge42)
 ---
-[![d2n0s4ur's github stats](https://github-readme-stats.vercel.app/api?username=d2n0s4ur&show_icons=true&theme=radical)](https://github.com/d2n0s4ur)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d2n0s4ur&layout=compact)](https://github.com/d2n0s4ur/github-readme-stats)
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=d2n0s4ur)](https://solved.ac/profile/d2n0s4ur)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://d2n0s4ur.github.io/)](https://d2n0s4ur.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njh0625@gmail.com)](mailto:njh0625@gmail.com)
