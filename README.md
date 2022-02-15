@@ -28,7 +28,7 @@ Hi their!👋 My name is **Junho Noh**, and I am studing at **Korea University**
 * [2021 ~ ] Korea University Department of CyberDefence
 * [2018 ~ 2020] Jeonnam Science High School 27th
 * [2015 ~ 2017] Mokpo Chungo middle school
-* [2009 ~ 2014] Mokpo Seoheo elementry school
+* [2009 ~ 2014] Mokpo Seohae elementry school
 
 <br/>
 
