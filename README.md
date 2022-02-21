@@ -24,6 +24,13 @@ Hi their!👋 My name is **Junho Noh**, and I am studing at **Korea University**
 
 <br/>
 
+## 💼 PRJECTS 💼
+* [2021] 42Seoul La'Piscine (Private)
+* [2020] mp3 donwloader (Private)
+* [2018 ~ 2020] jshsus.kr Development (Private)
+
+<br/>
+
 ## 🏫 SCHOOL 🏫
 * [2021 ~ ] Korea University Department of CyberDefence
 * [2018 ~ 2020] Jeonnam Science High School 27th
