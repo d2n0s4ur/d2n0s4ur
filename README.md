@@ -28,7 +28,7 @@ Hi their!👋 My name is **Junho Noh**, and I am studing at **Korea University &
 * [2022] 42Seoul La'Piscine (Private)
 * [2020] mp3 donwloader (Private)
 * [2020] COVID-19 Checkin System (Private)
-* [2018 ~ 2020] jshsus.kr Development (Private)
+* [2018 ~ 2020] [jshsus.kr](https://jshsus.kr) Development (Private)
 
 <br/>
 
