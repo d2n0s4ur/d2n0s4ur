@@ -1,4 +1,4 @@
-Hi their!👋 My name is **Junho Noh**, and I am studing at **Korea University**
+Hi their!👋 My name is **Junho Noh**, and I am studing at **Korea University & 42Seoul**
 <br/>
 
 ![42Seoul](https://img.shields.io/badge/42Seoul-jnoh-sucess?style=flat&logo=42)
