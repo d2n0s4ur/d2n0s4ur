@@ -41,6 +41,7 @@ Hi their!👋 My name is **Junho Noh**, and I am studing at **Korea University**
 
 ## 📖 LEARNING 📖
 * [2022.01] 42Seoul La'Piscine 6기 1차 교육생
+* [2022.03 ~ ] 42Seoul Cursus 6기 카뎃
 
 [![jnoh's 42 stats](https://badge42.herokuapp.com/api/stats/jnoh?privacyName=true)](https://github.com/JaeSeoKim/badge42)
 ---
