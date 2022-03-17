@@ -41,7 +41,6 @@ Hi their!👋 My name is **Junho Noh**, and I am studing at **Korea University &
 
 <br/>
 
-* [2018] 제 35회 한국정보올림피아드 전국대회 은상
 * [2018] 제 35회 한국정보올림피아드 전남대회 은상
 
 <br/>
