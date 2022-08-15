@@ -17,8 +17,6 @@ Hello, World!👋 My name is **Junho Noh**, and I am studying at **Korea Univers
 
 ## 🍳 My Skill 🍳
 
-* MERN STACK
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
@@ -27,6 +25,9 @@ Hello, World!👋 My name is **Junho Noh**, and I am studying at **Korea Univers
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2b%2b&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/Javascript-14161a?style=for-the-badge&logo=Javascript&logoColor=F7DF1E)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![After Effect](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
 <br/>
 
