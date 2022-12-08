@@ -59,7 +59,7 @@ Hello, World!👋 My name is **Junho Noh**, and I am studying at **Korea Univers
 <br/>
 
 ## 🏫 SCHOOL 🏫
-* [2021 ~ ]     Korea University Department of CyberDefence 10th
+* [2021 ~ ]     Korea University Department of CyberDefense 10th
 * [2018 ~ 2020] Jeonnam Science High School 27th
 * [2015 ~ 2017] Mokpo Chungho Middle School
 * [2009 ~ 2014] Mokpo Seohae Elementary School
