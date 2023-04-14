@@ -1,6 +1,6 @@
 Hello, World!👋 My name is **Junho Noh**, and I am studying at **Korea University**
 I am the **CDO** of **Sterri**
-Also, I am the **Undergraduate Studnet of DFRC Lab**
+Also, I am the **Undergraduate Researcher of DFRC Lab**
 <br/>
 
 ![42Seoul](https://img.shields.io/badge/42Seoul-jnoh-sucess?style=flat&logo=42)
