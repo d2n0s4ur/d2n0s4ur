@@ -2,7 +2,7 @@ Hello, World!👋 My name is **Junho Noh**
 <br/>
 
 ## Who Am I?
-* Co-Founder & CDO @ **Sterri** ( 2023.01 ~ )
+* Co-Founder & CTO @ **Sterri** ( 2023.01 ~ )
 * Undergraduate Researcher @ **Digital Forensic Research Center** ( 2023.02 ~ )
 * Undergraduate Student @ **Korea University**, Department of **CyberDefense** ( 2021.03 ~ )
 
