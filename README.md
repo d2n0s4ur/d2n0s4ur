@@ -9,6 +9,9 @@ Hello, World!👋 My name is **Junho Noh**
 * @ **42 Seoul** Cadet ( 2022.03 ~ 2023.03)
 
 
+## CTF
+* BelkaCTF#6 10th rank (2024.04.05 ~ 2024.04.07) @d2n0s4ur
+
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://d2n0s4ur.github.io/)](https://d2n0s4ur.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:njh0625@gmail.com)](mailto:njh0625@gmail.com)
