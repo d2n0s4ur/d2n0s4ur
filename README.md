@@ -10,6 +10,7 @@ Hello, World!👋 My name is **Junho Noh**
 
 
 ## CTF
+* 2025년 제11회 디지털 범인을 찾아라 장려상 (2025.11.10) [공지](https://forensickorea.org/web/bbs/view/boardView.do?bbsId=4&nttId=236)
 * BelkaCTF#6 10th rank (2024.04.05 ~ 2024.04.07) @d2n0s4ur [Writeup](https://blog.d2n0s4ur.dev/belkactf6--writeup)
 
 
