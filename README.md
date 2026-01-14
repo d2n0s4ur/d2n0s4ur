@@ -2,15 +2,16 @@ Hello, World!👋 My name is **Junho Noh**
 <br/>
 
 ## Who Am I?
+* Master Student of Cyber Security, Digital Forensics @ **Digital Forensic Research Center, Korea University** (2026.01 ~ )
 * Co-Founder & CTO @ **Sterri** ( 2023.01 ~ 2026.01 )
 * Undergraduate Researcher @ **Digital Forensic Research Center** ( 2023.02 ~ 2023.12 )
 * Undergraduate Student @ **Korea University**, Department of **CyberDefense** ( 2021.03 ~ 2026.02 )
 
-* @ **42 Seoul** Cadet ( 2022.03 ~ 2023.03)
+* Cadet @ **42 Seoul** ( 2022.03 ~ 2023.03)
 
 
-## CTF
-* 2025년 제11회 디지털 범인을 찾아라 장려상 (2025.11.10) [공지](https://forensickorea.org/web/bbs/view/boardView.do?bbsId=4&nttId=236)
+## CTF & Awards
+* 2025년 제11회 디지털 범인을 찾아라 장려상 (2025.11.10)
 * BelkaCTF#6 10th rank(student 5th rank) (2024.04.05 ~ 2024.04.07) @d2n0s4ur [Writeup](https://blog.d2n0s4ur.dev/belkactf6--writeup)
 
 
